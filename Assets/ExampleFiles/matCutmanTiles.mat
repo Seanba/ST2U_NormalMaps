@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: matSpriteDiffuseNormal
+  m_Name: matCutmanTiles
   m_Shader: {fileID: 4800000, guid: df866310da260ef4fba96f7d2bb13777, type: 3}
   m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
   m_LightmapFlags: 4

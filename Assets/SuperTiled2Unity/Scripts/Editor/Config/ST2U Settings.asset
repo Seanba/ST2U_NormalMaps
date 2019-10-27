@@ -16,6 +16,9 @@ MonoBehaviour:
   m_EdgesPerEllipse: 32
   m_AnimationFramerate: 20
   m_DefaultMaterial: {fileID: 0}
+  m_MaterialMatchings:
+  - m_LayerName: BG-Cutman
+    m_Material: {fileID: 2100000, guid: 1eee143fda3e40243a069703f3e5cfa2, type: 2}
   m_ObjectTypesXml: {fileID: 0}
   m_ParseXmlError: 
   m_LayerColors:

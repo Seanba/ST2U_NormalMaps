@@ -6,7 +6,7 @@ Using normal maps with Tiled maps in Unity with prefabs created by SuperTiled2Un
 
 There are 7 steps in this example:
 
-1. Prepare your tileset texture sheets with "margins" around each tile. This will protect against seams that are common with the `TilemapRenderer` when sprite atlassing is not used.
+1. Prepare your tileset texture sheets with "margins" around each tile. This will protect against seams that are common with the `TilemapRenderer` when sprite atlases are not used.
 2.  Create a shader that renders sprites with a normal map. See `Assets/ExampleFiles/shaSpriteDiffuseNormal.shader` for an example.
 3.  Create normal maps for your tilesets. The texture coordinates in the regular (diffuse) sprite texture must match the texture coordiantes of the normal map texture.
 4.  Create a material for each tileset that uses your custom shader, tileset diffuse texture, and tileset normal map.
